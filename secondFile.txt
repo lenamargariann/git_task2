@@ -1,6 +1,8 @@
 1 Second file
+2 Second changed file git_1
 2 Second changed file git_2
 3 Second file
+4 Second changed file git_1
 4 Second changed file git_2
 5 Second file
 6 Second file
