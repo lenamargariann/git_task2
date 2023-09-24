@@ -4,8 +4,8 @@
 4 First changed file file step 8 on git_1
 5 First file
 6 First file
-7 First file
-8 First file
+7 First file folder2
+8 First file folder2
 9 First file
 10 First file
 
