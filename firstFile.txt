@@ -1,7 +1,7 @@
-1 First file
-2 First file
-3 First file
-4 First file
+1 First changed file step 7 on git_1
+2 First changed file file step 7 on git_1
+3 First changed file file step 8 on git_1
+4 First changed file file step 8 on git_1
 5 First file
 6 First file
 7 First file
